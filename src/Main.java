@@ -7,7 +7,7 @@ public class Main {
         int sum = 0;
 
         System.out.println("Введите число и нажмите <Enter>");
-        System.out.println("Введите число и нажмите <Enter>");
+        
 
         while (true) {
             int value = new Scanner(System.in).nextInt();
