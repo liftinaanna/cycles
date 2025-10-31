@@ -12,7 +12,7 @@ public class Main {
         while (true) {
             int value = new Scanner(System.in).nextInt();
             if (value > 0) {
-                sum = sum + value;
+                sum = sum * value;
                 System.out.println("Сумма: " + sum);
                 System.out.println("Введите еще одно число или 0 для сброса");
             }
