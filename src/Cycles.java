@@ -1,4 +1,4 @@
 public class Cycles {
-  int one = 6;
+  int one = 88888;
   int two = 2;
 }
