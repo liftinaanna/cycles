@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         int sum = 0;
+        Persone persone = new Persone();
 
         System.out.println("Введите число и нажмите <Enter>");
         System.out.println("Введите число и нажмите <Enter>");
